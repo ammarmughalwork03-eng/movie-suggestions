@@ -1,0 +1,85 @@
+title,genres,poster_url,rating,imdb_url
+The Dark Knight,Action Crime Drama,https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg,9.0,https://www.imdb.com/title/tt0468569/
+Inception,Action Sci-Fi Thriller,https://upload.wikimedia.org/wikipedia/en/7/7f/Inception_ver3.jpg,8.8,https://www.imdb.com/title/tt1375666/
+Interstellar,Sci-Fi Drama,https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg,8.6,https://www.imdb.com/title/tt0816692/
+Fight Club,Drama,https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg,8.8,https://www.imdb.com/title/tt0137523/
+Forrest Gump,Drama Romance,https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg,8.8,https://www.imdb.com/title/tt0109830/
+The Matrix,Action Sci-Fi,https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg,8.7,https://www.imdb.com/title/tt0133093/
+The Shawshank Redemption,Drama Crime,https://upload.wikimedia.org/wikipedia/en/8/81/ShawshankRedemptionMoviePoster.jpg,9.3,https://www.imdb.com/title/tt0111161/
+Pulp Fiction,Crime Drama,https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg,8.9,https://www.imdb.com/title/tt0110912/
+The Lord of the Rings: The Fellowship of the Ring,Adventure Fantasy,https://upload.wikimedia.org/wikipedia/en/0/0c/The_Fellowship_of_the_Ring.jpg,8.8,https://www.imdb.com/title/tt0120737/
+The Godfather,Crime Drama,https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg,9.2,https://www.imdb.com/title/tt0068646/
+Gladiator,Action Drama,https://upload.wikimedia.org/wikipedia/en/8/8d/Gladiator_ver1.jpg,8.5,https://www.imdb.com/title/tt0172495/
+The Avengers,Action Sci-Fi Adventure,https://upload.wikimedia.org/wikipedia/en/f/f9/TheAvengers2012Poster.jpg,8.0,https://www.imdb.com/title/tt0848228/
+Titanic,Romance Drama,https://upload.wikimedia.org/wikipedia/en/2/22/Titanic_poster.jpg,7.8,https://www.imdb.com/title/tt0120338/
+Joker,Crime Drama Thriller,https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg,8.5,https://www.imdb.com/title/tt7286456/
+Avengers: Endgame,Action Sci-Fi Adventure,https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg,8.4,https://www.imdb.com/title/tt4154796/
+Black Panther,Action Adventure,https://upload.wikimedia.org/wikipedia/en/0/0c/Black_Panther_film_poster.jpg,7.3,https://www.imdb.com/title/tt1825683/
+Guardians of the Galaxy,Action Sci-Fi Comedy,https://upload.wikimedia.org/wikipedia/en/8/8f/GotG_Vol_1_poster.jpg,8.0,https://www.imdb.com/title/tt2015381/
+Deadpool,Action Comedy,https://upload.wikimedia.org/wikipedia/en/4/46/Deadpool_poster.jpg,8.0,https://www.imdb.com/title/tt1431045/
+Spider-Man: No Way Home,Action Adventure Sci-Fi,https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_No_Way_Home_poster.jpg,8.3,https://www.imdb.com/title/tt10872600/
+The Lion King,Animation Adventure Family,https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg,8.5,https://www.imdb.com/title/tt0110357/
+Frozen,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/05/Frozen_%282013_film%29_poster.jpg,7.5,https://www.imdb.com/title/tt2294629/
+Harry Potter and the Sorcerer's Stone,Adventure Fantasy,https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg,7.6,https://www.imdb.com/title/tt0241527/
+Star Wars: Episode IV - A New Hope,Action Adventure Sci-Fi,https://upload.wikimedia.org/wikipedia/en/8/87/StarWarsMoviePoster1977.jpg,8.6,https://www.imdb.com/title/tt0076759/
+The Silence of the Lambs,Crime Drama Thriller,https://upload.wikimedia.org/wikipedia/en/8/86/The_Silence_of_the_Lambs_poster.jpg,8.6,https://www.imdb.com/title/tt0102926/
+Saving Private Ryan,Drama War,https://upload.wikimedia.org/wikipedia/en/a/ac/Saving_Private_Ryan_poster.jpg,8.6,https://www.imdb.com/title/tt0120815/
+Back to the Future,Adventure Comedy Sci-Fi,https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg,8.5,https://www.imdb.com/title/tt0088763/
+The Social Network,Drama Biography,https://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg,7.7,https://www.imdb.com/title/tt1285016/
+The Wolf of Wall Street,Biography Comedy Crime,https://upload.wikimedia.org/wikipedia/en/1/1f/Wolf_of_Wall_Street_film_poster.jpg,8.2,https://www.imdb.com/title/tt0993846/
+La La Land,Romance Musical,https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png,8.0,https://www.imdb.com/title/tt3783958/
+The Grand Budapest Hotel,Comedy Drama,https://upload.wikimedia.org/wikipedia/en/a/a6/Grand_Budapest_Hotel_Poster.jpg,8.1,https://www.imdb.com/title/tt2278388/
+The Revenant,Adventure Biography Drama,https://upload.wikimedia.org/wikipedia/en/b/b6/Revenant_2015_film_poster.jpg,8.0,https://www.imdb.com/title/tt1663202/
+Mad Max: Fury Road,Action Adventure Sci-Fi,https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg,8.1,https://www.imdb.com/title/tt1392190/
+Django Unchained,Drama Western,https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg,8.4,https://www.imdb.com/title/tt1853728/
+The Departed,Crime Drama Thriller,https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg,8.5,https://www.imdb.com/title/tt0407887/
+Whiplash,Drama Music,https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_film_poster.jpg,8.5,https://www.imdb.com/title/tt2582802/
+Guardians of the Galaxy Vol. 2,Action Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/06/Guardians_of_the_Galaxy_Vol_2_poster.jpg,7.6,https://www.imdb.com/title/tt3896198/
+The Incredibles,Animation Action Adventure,https://upload.wikimedia.org/wikipedia/en/e/ec/The_Incredibles.jpg,8.0,https://www.imdb.com/title/tt0317705/
+Finding Nemo,Animation Adventure Family,https://upload.wikimedia.org/wikipedia/en/2/29/Finding_Nemo.jpg,8.1,https://www.imdb.com/title/tt0266543/
+The Prestige,Drama Mystery Thriller,https://upload.wikimedia.org/wikipedia/en/d/d2/Prestige_poster.jpg,8.5,https://www.imdb.com/title/tt0482571/
+The Hobbit: An Unexpected Journey,Adventure Fantasy,https://upload.wikimedia.org/wikipedia/en/4/4f/The_Hobbit_An_Unexpected_Journey.jpg,7.8,https://www.imdb.com/title/tt0903624/
+The Lion King (2019),Animation Adventure Drama,https://upload.wikimedia.org/wikipedia/en/3/3d/The_Lion_King_poster.jpg,6.9,https://www.imdb.com/title/tt6105098/
+Wonder Woman,Action Adventure Fantasy,https://upload.wikimedia.org/wikipedia/en/e/ed/Wonder_Woman_2017_film_poster.jpg,7.4,https://www.imdb.com/title/tt0451279/
+Black Swan,Drama Thriller,https://upload.wikimedia.org/wikipedia/en/8/8f/Black_Swan_poster.jpg,8.0,https://www.imdb.com/title/tt0947798/
+The Truman Show,Comedy Drama,https://upload.wikimedia.org/wikipedia/en/8/8a/Truman_Show_poster.jpg,8.1,https://www.imdb.com/title/tt0120382/
+La La Land,Romance Musical,https://upload.wikimedia.org/wikipedia/en/a/ab/La_La_Land_%28film%29.png,8.0,https://www.imdb.com/title/tt3783958/
+The Martian,Adventure Drama Sci-Fi,https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg,8.0,https://www.imdb.com/title/tt3659388/
+A Star Is Born (2018),Drama Music Romance,https://upload.wikimedia.org/wikipedia/en/7/7e/A_Star_Is_Born_2018_poster.jpg,7.6,https://www.imdb.com/title/tt1517451/
+The Social Network,Drama Biography,https://upload.wikimedia.org/wikipedia/en/7/7a/Social_network_film_poster.jpg,7.7,https://www.imdb.com/title/tt1285016/
+The Wolf of Wall Street,Biography Comedy Crime,https://upload.wikimedia.org/wikipedia/en/1/1f/Wolf_of_Wall_Street_film_poster.jpg,8.2,https://www.imdb.com/title/tt0993846/
+Get Out,Horror Mystery Thriller,https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png,7.7,https://www.imdb.com/title/tt5052448/
+Logan,Action Drama Sci-Fi,https://upload.wikimedia.org/wikipedia/en/8/8d/Logan_2017_film_poster.jpg,8.1,https://www.imdb.com/title/tt3315342/
+The Big Short,Biography Comedy Drama,https://upload.wikimedia.org/wikipedia/en/7/7a/Big_Short_Poster.jpg,7.8,https://www.imdb.com/title/tt1596363/
+Guardians of the Galaxy Vol. 3,Action Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/06/Guardians_of_the_Galaxy_Vol_3_poster.jpg,8.1,https://www.imdb.com/title/tt6791350/
+Wonder,Drama Family,https://upload.wikimedia.org/wikipedia/en/5/5f/Wonder_2017_film_poster.jpg,8.0,https://www.imdb.com/title/tt2543472/
+Inside Out,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg,8.1,https://www.imdb.com/title/tt2096673/
+Coco,Animation Adventure Family,https://upload.wikimedia.org/wikipedia/en/9/9d/Coco_poster.jpg,8.4,https://www.imdb.com/title/tt2380307/
+Moana,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/2/2e/Moana_poster.jpg,7.6,https://www.imdb.com/title/tt3521164/
+Toy Story,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg,8.3,https://www.imdb.com/title/tt0114709/
+Toy Story 3,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/6/69/Toy_Story_3_poster.jpg,8.3,https://www.imdb.com/title/tt0435761/
+Mad Max: Fury Road,Action Adventure Sci-Fi,https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg,8.1,https://www.imdb.com/title/tt1392190/
+The Revenant,Adventure Biography Drama,https://upload.wikimedia.org/wikipedia/en/b/b6/Revenant_2015_film_poster.jpg,8.0,https://www.imdb.com/title/tt1663202/
+Django Unchained,Drama Western,https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg,8.4,https://www.imdb.com/title/tt1853728/
+The Departed,Crime Drama Thriller,https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg,8.5,https://www.imdb.com/title/tt0407887/
+Whiplash,Drama Music,https://upload.wikimedia.org/wikipedia/en/0/01/Whiplash_film_poster.jpg,8.5,https://www.imdb.com/title/tt2582802/
+The Dark Knight Rises,Action Crime Drama,https://upload.wikimedia.org/wikipedia/en/8/83/Dark_Knight_Rises_poster.jpg,8.4,https://www.imdb.com/title/tt1345836/
+John Wick,Action Crime Thriller,https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg,7.4,https://www.imdb.com/title/tt2911666/
+The Exorcist,Horror Mystery Thriller,https://upload.wikimedia.org/wikipedia/en/1/17/Exorcist_ver2.jpg,8.0,https://www.imdb.com/title/tt0070047/
+The Bourne Identity,Action Thriller,https://upload.wikimedia.org/wikipedia/en/5/52/BourneIdentityfilm.jpg,7.9,https://www.imdb.com/title/tt0258463/
+Casino Royale,Action Thriller,https://upload.wikimedia.org/wikipedia/en/8/8a/Casino_Royale_2006_Poster.jpg,8.0,https://www.imdb.com/title/tt0381061/
+Skyfall,Action Thriller,https://upload.wikimedia.org/wikipedia/en/5/5e/Skyfall_poster.jpg,7.7,https://www.imdb.com/title/tt1074638/
+Gone Girl,Drama Mystery Thriller,https://upload.wikimedia.org/wikipedia/en/0/05/Gone_Girl_Poster.jpg,8.1,https://www.imdb.com/title/tt2267998/
+The Hunger Games,Action Adventure Sci-Fi,https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg,7.2,https://www.imdb.com/title/tt1392170/
+Guardians of the Galaxy Vol. 2,Action Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/06/Guardians_of_the_Galaxy_Vol_2_poster.jpg,7.6,https://www.imdb.com/title/tt3896198/
+The Great Gatsby,Drama Romance,https://upload.wikimedia.org/wikipedia/en/f/f7/TheGreatGatsby2013Poster.jpg,7.2,https://www.imdb.com/title/tt1343092/
+The Imitation Game,Biography Drama Thriller,https://upload.wikimedia.org/wikipedia/en/9/9a/The_Imitation_Game_film_poster.jpg,8.0,https://www.imdb.com/title/tt2084970/
+Black Swan,Drama Thriller,https://upload.wikimedia.org/wikipedia/en/8/8f/Black_Swan_poster.jpg,8.0,https://www.imdb.com/title/tt0947798/
+The Truman Show,Comedy Drama,https://upload.wikimedia.org/wikipedia/en/8/8a/Truman_Show_poster.jpg,8.1,https://www.imdb.com/title/tt0120382/
+The Martian,Adventure Drama Sci-Fi,https://upload.wikimedia.org/wikipedia/en/c/cd/The_Martian_film_poster.jpg,8.0,https://www.imdb.com/title/tt3659388/
+A Star Is Born (2018),Drama Music Romance,https://upload.wikimedia.org/wikipedia/en/7/7e/A_Star_Is_Born_2018_poster.jpg,7.6,https://www.imdb.com/title/tt1517451/
+Get Out,Horror Mystery Thriller,https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png,7.7,https://www.imdb.com/title/tt5052448/
+Logan,Action Drama Sci-Fi,https://upload.wikimedia.org/wikipedia/en/8/8d/Logan_2017_film_poster.jpg,8.1,https://www.imdb.com/title/tt3315342/
+The Big Short,Biography Comedy Drama,https://upload.wikimedia.org/wikipedia/en/7/7a/Big_Short_Poster.jpg,7.8,https://www.imdb.com/title/tt1596363/
+Wonder,Drama Family,https://upload.wikimedia.org/wikipedia/en/5/5f/Wonder_2017_film_poster.jpg,8.0,https://www.imdb.com/title/tt2543472/
+Inside Out,Animation Adventure Comedy,https://upload.wikimedia.org/wikipedia/en/0/
